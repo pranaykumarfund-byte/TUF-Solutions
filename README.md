@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 3 | 0 | 0 | `2026-08-14` |
+| **4** | 4 | 0 | 0 | `2026-08-14` |
 
 ---
 
@@ -16,7 +16,8 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [If Else Adult Teen Problem](./DSA/General/if-else-adult-teen-problem) | [CPP](./DSA/General/if-else-adult-teen-problem/solution.cpp) | 🟢 Easy | `DSA` |
 | 0002 | [If ElseIf](./DSA/General/if-elseif) | [CPP](./DSA/General/if-elseif/solution.cpp) | 🟢 Easy | `DSA` |
-| 0003 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0003 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
+| 0004 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
