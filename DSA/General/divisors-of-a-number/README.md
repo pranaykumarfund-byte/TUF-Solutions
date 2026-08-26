@@ -1,4 +1,4 @@
-# [Divisors of a Number](https://takeuforward.org/plus/dsa/problems/divisors-of-a-number?subject=dsa&approach=optimal&tab=submissions)
+# [Divisors of a Number](https://takeuforward.org/plus/dsa/problems/divisors-of-a-number?subject=dsa&approach=optimal-ii&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
