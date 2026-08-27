@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **40** | 37 | 3 | 0 | `2026-08-26` |
+| **41** | 38 | 3 | 0 | `2026-08-27` |
 
 ---
 
@@ -53,7 +53,8 @@
 | 0037 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
 | 0038 | [Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | 🟢 Easy | `DSA` |
 | 0039 | [Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟢 Easy | `DSA` |
-| 0040 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0040 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0041 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
