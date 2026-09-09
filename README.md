@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **50** | 47 | 3 | 0 | `2026-09-08` |
+| **51** | 48 | 3 | 0 | `2026-09-09` |
 
 ---
 
@@ -28,42 +28,43 @@
 | 0012 | [Highest Occurring Element in an Array](./DSA/Arrays/highest-occurring-element-in-an-array) | [CPP](./DSA/Arrays/highest-occurring-element-in-an-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0013 | [If Else Adult Teen Problem](./DSA/General/if-else-adult-teen-problem) | [CPP](./DSA/General/if-else-adult-teen-problem/solution.cpp) | 🟢 Easy | `DSA` |
 | 0014 | [If ElseIf](./DSA/General/if-elseif) | [CPP](./DSA/General/if-elseif/solution.cpp) | 🟢 Easy | `DSA` |
-| 0015 | [Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [CPP](./DSA/Strings/largest-odd-number-in-a-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0016 | [LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | 🟢 Easy | `DSA` |
-| 0017 | [Longest Common Prefix](./DSA/General/longest-common-prefix) | [CPP](./DSA/General/longest-common-prefix/solution.cpp) | 🟢 Easy | `DSA` |
-| 0018 | [Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0019 | [Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0020 | [Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | 🟢 Easy | `DSA` |
-| 0021 | [Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | 🟢 Easy | `DSA` |
-| 0022 | [Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | 🟢 Easy | `DSA` |
-| 0023 | [Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | 🟢 Easy | `DSA` |
-| 0024 | [Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | 🟢 Easy | `DSA` |
-| 0025 | [Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | 🟢 Easy | `DSA` |
-| 0026 | [Pattern 15](./DSA/General/pattern-15) | [CPP](./DSA/General/pattern-15/solution.cpp) | 🟢 Easy | `DSA` |
-| 0027 | [Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | 🟢 Easy | `DSA` |
-| 0028 | [Pattern 17](./DSA/General/pattern-17) | [CPP](./DSA/General/pattern-17/solution.cpp) | 🟢 Easy | `DSA` |
-| 0029 | [Pattern 18](./DSA/General/pattern-18) | [CPP](./DSA/General/pattern-18/solution.cpp) | 🟢 Easy | `DSA` |
-| 0030 | [Pattern 19](./DSA/General/pattern-19) | [CPP](./DSA/General/pattern-19/solution.cpp) | 🟢 Easy | `DSA` |
-| 0031 | [Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | 🟢 Easy | `DSA` |
-| 0032 | [Pattern 20](./DSA/General/pattern-20) | [CPP](./DSA/General/pattern-20/solution.cpp) | 🟡 Medium | `DSA` |
-| 0033 | [Pattern 21](./DSA/General/pattern-21) | [CPP](./DSA/General/pattern-21/solution.cpp) | 🟡 Medium | `DSA` |
-| 0034 | [Pattern 22](./DSA/General/pattern-22) | [CPP](./DSA/General/pattern-22/solution.cpp) | 🟡 Medium | `DSA` |
-| 0035 | [Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | 🟢 Easy | `DSA` |
-| 0036 | [Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | 🟢 Easy | `DSA` |
-| 0037 | [Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | 🟢 Easy | `DSA` |
-| 0038 | [Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | 🟢 Easy | `DSA` |
-| 0039 | [Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | 🟢 Easy | `DSA` |
-| 0040 | [Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | 🟢 Easy | `DSA` |
-| 0041 | [Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | 🟢 Easy | `DSA` |
-| 0042 | [Print last character of string](./DSA/Strings/print-last-character-of-string) | [CPP](./DSA/Strings/print-last-character-of-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0043 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
-| 0044 | [Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | 🟢 Easy | `DSA` |
-| 0045 | [Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟢 Easy | `DSA` |
-| 0046 | [Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0047 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0048 | [Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | 🟢 Easy | `DSA` |
-| 0049 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0050 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0015 | [Isomorphic String](./DSA/Strings/isomorphic-string) | [CPP](./DSA/Strings/isomorphic-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0016 | [Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [CPP](./DSA/Strings/largest-odd-number-in-a-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0017 | [LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | 🟢 Easy | `DSA` |
+| 0018 | [Longest Common Prefix](./DSA/General/longest-common-prefix) | [CPP](./DSA/General/longest-common-prefix/solution.cpp) | 🟢 Easy | `DSA` |
+| 0019 | [Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0020 | [Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0021 | [Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | 🟢 Easy | `DSA` |
+| 0022 | [Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | 🟢 Easy | `DSA` |
+| 0023 | [Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | 🟢 Easy | `DSA` |
+| 0024 | [Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | 🟢 Easy | `DSA` |
+| 0025 | [Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | 🟢 Easy | `DSA` |
+| 0026 | [Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | 🟢 Easy | `DSA` |
+| 0027 | [Pattern 15](./DSA/General/pattern-15) | [CPP](./DSA/General/pattern-15/solution.cpp) | 🟢 Easy | `DSA` |
+| 0028 | [Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | 🟢 Easy | `DSA` |
+| 0029 | [Pattern 17](./DSA/General/pattern-17) | [CPP](./DSA/General/pattern-17/solution.cpp) | 🟢 Easy | `DSA` |
+| 0030 | [Pattern 18](./DSA/General/pattern-18) | [CPP](./DSA/General/pattern-18/solution.cpp) | 🟢 Easy | `DSA` |
+| 0031 | [Pattern 19](./DSA/General/pattern-19) | [CPP](./DSA/General/pattern-19/solution.cpp) | 🟢 Easy | `DSA` |
+| 0032 | [Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | 🟢 Easy | `DSA` |
+| 0033 | [Pattern 20](./DSA/General/pattern-20) | [CPP](./DSA/General/pattern-20/solution.cpp) | 🟡 Medium | `DSA` |
+| 0034 | [Pattern 21](./DSA/General/pattern-21) | [CPP](./DSA/General/pattern-21/solution.cpp) | 🟡 Medium | `DSA` |
+| 0035 | [Pattern 22](./DSA/General/pattern-22) | [CPP](./DSA/General/pattern-22/solution.cpp) | 🟡 Medium | `DSA` |
+| 0036 | [Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | 🟢 Easy | `DSA` |
+| 0037 | [Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | 🟢 Easy | `DSA` |
+| 0038 | [Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | 🟢 Easy | `DSA` |
+| 0039 | [Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | 🟢 Easy | `DSA` |
+| 0040 | [Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | 🟢 Easy | `DSA` |
+| 0041 | [Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | 🟢 Easy | `DSA` |
+| 0042 | [Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | 🟢 Easy | `DSA` |
+| 0043 | [Print last character of string](./DSA/Strings/print-last-character-of-string) | [CPP](./DSA/Strings/print-last-character-of-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0044 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
+| 0045 | [Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | 🟢 Easy | `DSA` |
+| 0046 | [Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟢 Easy | `DSA` |
+| 0047 | [Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0048 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0049 | [Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | 🟢 Easy | `DSA` |
+| 0050 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0051 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
