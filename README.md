@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **55** | 52 | 3 | 0 | `2026-09-13` |
+| **55** | 52 | 3 | 0 | `2026-09-14` |
 
 ---
 
@@ -23,7 +23,7 @@
 | 0007 | [Count of odd numbers in array](./DSA/Arrays/count-of-odd-numbers-in-array) | [CPP](./DSA/Arrays/count-of-odd-numbers-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0008 | [Count of Prime Numbers till N](./DSA/Linked-List/count-of-prime-numbers-till-n) | [CPP](./DSA/Linked-List/count-of-prime-numbers-till-n/solution.cpp) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0009 | [Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | 🟢 Easy | `DSA` |
-| 0010 | [Factorial of a given number](./DSA/General/factorial-of-a-given-number) | [CPP](./DSA/General/factorial-of-a-given-number/solution.cpp) | 🟢 Easy | `DSA` |
+| 0010 | [Factorial of a Given Number](./DSA/General/factorial-of-a-given-number) | [CPP](./DSA/General/factorial-of-a-given-number/solution.cpp) | 🟢 Easy | `DSA` |
 | 0011 | [GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | 🟢 Easy | `DSA` |
 | 0012 | [Highest Occurring Element in an Array](./DSA/Arrays/highest-occurring-element-in-an-array) | [CPP](./DSA/Arrays/highest-occurring-element-in-an-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0013 | [If Else Adult Teen Problem](./DSA/General/if-else-adult-teen-problem) | [CPP](./DSA/General/if-else-adult-teen-problem/solution.cpp) | 🟢 Easy | `DSA` |

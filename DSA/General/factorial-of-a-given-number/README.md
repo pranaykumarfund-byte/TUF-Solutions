@@ -1,4 +1,4 @@
-# [Factorial of a given number](https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number-i?subject=dsa&approach=theory&sidebar=open&tab=submissions)
+# [Factorial of a Given Number](https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number-ii?subject=dsa&category=beginner-problem&subcategory=basic-recursion&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -6,33 +6,41 @@
 
 ## 📝 Problem Statement
 
-You are given an integer **n** . Return the value of **n!** or **n factorial** .
+Given an integer **n, r** eturn the factorial of n.
 
-**Factorial** of a number is the **product** of **all** positive integers less than or equal to that number.
+**Factorial** of a non-negative integer, is the multiplication of all integers smaller than or equal to n (use 64-bits to return answer).
 
 ### Example 1
 
 <p>
 
-**Input:** n = 2</p><p>
+**Input:** n = 3</p><p>
 
-**Output:** 2</p><p>
+**Output:** 6</p><p>
 
-**Explanation:** 2! = 1 * 2 = 2.</p>
+**Explanation:** Factorial = 1 * 2 * 3 => 6</p>
 
 ### Example 2
 
 <p>
 
-**Input:** n = 0</p><p>
+**Input:** n = 5</p><p>
 
-**Output:** 1</p><p>
+**Output:** 120</p><p>
 
-**Explanation:** 0! is defined as 1.</p>
+**Explanation:** Factorial = 1 * 2 * 3 * 4 * 5 => 120</p>
+
+### Example 3
+
+<p>
+
+**Input:** n = 4</p>Output:
+
+24
 
 ### Constraints
 
-- 0 <= n <= 10
+- 0 <= n <= 15
 
 ---
 

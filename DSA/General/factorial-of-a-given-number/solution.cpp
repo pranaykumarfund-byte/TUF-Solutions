@@ -1,12 +1,9 @@
-class Solution {
-public:
-    int factorial(int n) {
-        if(n == 0) return 1;
-        int ans = 1;
-        for(int i = 1;i<=n;i++){
-            ans = ans*i;
-        }
-        return ans;
+class Solution{	
+	public:
+		long long int factorial(int n){
+            if(n<=1) return 1;
+            return n*factorial(n-1);
+        
 
-    }
+		}
 };
