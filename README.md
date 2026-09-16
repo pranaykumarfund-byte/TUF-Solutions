@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **56** | 53 | 3 | 0 | `2026-09-15` |
+| **57** | 54 | 3 | 0 | `2026-09-16` |
 
 ---
 
@@ -60,16 +60,17 @@
 | 0044 | [Print X N numbers of times](./DSA/General/print-x-n-numbers-of-times) | [CPP](./DSA/General/print-x-n-numbers-of-times/solution.cpp) | 🟢 Easy | `DSA` |
 | 0045 | [Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | 🟢 Easy | `DSA` |
 | 0046 | [Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟢 Easy | `DSA` |
-| 0047 | [Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0048 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0049 | [Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
-| 0050 | [Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | 🟢 Easy | `DSA` |
-| 0051 | [Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0052 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0053 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0054 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0055 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | 🟢 Easy | `DSA` |
-| 0056 | [Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0047 | [Reverse a String I](./DSA/Strings/reverse-a-string-i) | [CPP](./DSA/Strings/reverse-a-string-i/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0048 | [Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0049 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0050 | [Rotate String](./DSA/Strings/rotate-string) | [CPP](./DSA/Strings/rotate-string/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
+| 0051 | [Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | 🟢 Easy | `DSA` |
+| 0052 | [Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [CPP](./DSA/Arrays/sort-characters-by-frequency/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0053 | [Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0054 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0055 | [Sum of first last element in array](./DSA/Arrays/sum-of-first-last-element-in-array) | [CPP](./DSA/Arrays/sum-of-first-last-element-in-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0056 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | 🟢 Easy | `DSA` |
+| 0057 | [Valid Anagram](./DSA/Strings/valid-anagram) | [CPP](./DSA/Strings/valid-anagram/solution.cpp) | 🟢 Easy | `DSA` / `Strings` |
 
 ---
 
