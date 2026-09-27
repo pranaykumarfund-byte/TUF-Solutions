@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-09-26` |
+| **3** | 0 | 3 | 0 | `2026-09-27` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Bubble Sort](./DSA/Sorting/bubble-sort) | [CPP](./DSA/Sorting/bubble-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-26` |
-| 0002 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
+| 0002 | [Insertion Sorting](./DSA/Sorting/insertion-sorting) | [CPP](./DSA/Sorting/insertion-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-09-27` |
+| 0003 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
 
 ---
 
