@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 0 | 6 | 0 | `2026-10-02` |
+| **7** | 0 | 7 | 0 | `2026-10-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,7 +21,8 @@
 | 0003 | [Merge Sorting](./DSA/Sorting/merge-sorting) | [CPP](./DSA/Sorting/merge-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-09-30` |
 | 0004 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [CPP](./DSA/Sorting/quick-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-10-01` |
 | 0005 | [Recursive Bubble Sort](./DSA/Sorting/recursive-bubble-sort) | [CPP](./DSA/Sorting/recursive-bubble-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-02` |
-| 0006 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
+| 0006 | [Recursive Insertion Sort](./DSA/Sorting/recursive-insertion-sort) | [CPP](./DSA/Sorting/recursive-insertion-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-03` |
+| 0007 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
 
 ---
 
