@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 2 | 7 | 0 | `2026-10-06` |
+| **10** | 3 | 7 | 0 | `2026-10-07` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -24,7 +24,8 @@
 | 0006 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [CPP](./DSA/Sorting/quick-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-10-01` |
 | 0007 | [Recursive Bubble Sort](./DSA/Sorting/recursive-bubble-sort) | [CPP](./DSA/Sorting/recursive-bubble-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-02` |
 | 0008 | [Recursive Insertion Sort](./DSA/Sorting/recursive-insertion-sort) | [CPP](./DSA/Sorting/recursive-insertion-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-03` |
-| 0009 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
+| 0009 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
+| 0010 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
 
 ---
 
