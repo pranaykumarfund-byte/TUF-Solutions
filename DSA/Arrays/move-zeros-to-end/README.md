@@ -1,4 +1,4 @@
-# [Move Zeros to End](https://takeuforward.org/practice/dsa/move-zeros-to-end?category=logic-building&source=strivers-a2z-dsa-sheet&sidebar=0)
+# [Move Zeros to End](https://takeuforward.org/practice/dsa/move-zeros-to-end?category=logic-building&source=strivers-a2z-dsa-sheet&sidebar=0&solution=optimal)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
@@ -29,6 +29,10 @@ Both the zeroes are moved to the end and the order of the other elements stay th
 **Explanation:**
 
 All 3 zeroes are moved to the end and the order of the other elements stay the same
+
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
 
 Still unsure what the problem is asking ?
 
