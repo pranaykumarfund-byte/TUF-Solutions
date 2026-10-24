@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **25** | 8 | 17 | 0 | `2026-10-23` |
+| **26** | 8 | 18 | 0 | `2026-10-24` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (25)
+### DSA (26)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -38,9 +38,10 @@
 | 0020 | [Recursive Bubble Sort](./DSA/Sorting/recursive-bubble-sort) | [CPP](./DSA/Sorting/recursive-bubble-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-02` |
 | 0021 | [Recursive Insertion Sort](./DSA/Sorting/recursive-insertion-sort) | [CPP](./DSA/Sorting/recursive-insertion-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-03` |
 | 0022 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-13` |
-| 0023 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
-| 0024 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
-| 0025 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0023 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-24` |
+| 0024 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
+| 0025 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
+| 0026 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
 
 ---
 
