@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **28** | 9 | 19 | 0 | `2026-10-25` |
+| **29** | 10 | 19 | 0 | `2026-10-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (28)
+### DSA (29)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -44,7 +44,8 @@ POTD](./DSA/General/check-for-perfect-number) | [CPP](./DSA/General/check-for-pe
 | 0025 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
 | 0026 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
 | 0027 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-25` |
-| 0028 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0028 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-26` |
+| 0029 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
 
 ---
 
