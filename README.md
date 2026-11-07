@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **37** | 10 | 26 | 1 | `2026-11-05` |
+| **38** | 10 | 26 | 2 | `2026-11-07` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (37)
+### DSA (38)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -47,13 +47,14 @@ POTD](./DSA/General/check-for-perfect-number) | [CPP](./DSA/General/check-for-pe
 | 0028 | [Recursive Bubble Sort](./DSA/Sorting/recursive-bubble-sort) | [CPP](./DSA/Sorting/recursive-bubble-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-02` |
 | 0029 | [Recursive Insertion Sort](./DSA/Sorting/recursive-insertion-sort) | [CPP](./DSA/Sorting/recursive-insertion-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-03` |
 | 0030 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-13` |
-| 0031 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-24` |
-| 0032 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
-| 0033 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
-| 0034 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-25` |
-| 0035 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-29` |
-| 0036 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-26` |
-| 0037 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0031 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [CPP](./DSA/Arrays/reverse-pairs/solution.cpp) | 🔴 Hard | `Arrays` | `2026-11-07` |
+| 0032 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-24` |
+| 0033 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
+| 0034 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
+| 0035 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-25` |
+| 0036 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-29` |
+| 0037 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-26` |
+| 0038 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
 
 ---
 
