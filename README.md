@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **38** | 10 | 26 | 2 | `2026-11-07` |
+| **39** | 10 | 27 | 2 | `2026-11-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (38)
+### DSA (39)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -35,26 +35,27 @@ POTD](./DSA/General/check-for-perfect-number) | [CPP](./DSA/General/check-for-pe
 | 0016 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [CPP](./DSA/Arrays/majority-element-i/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-17` |
 | 0017 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [CPP](./DSA/Arrays/majority-element-ii/solution.cpp) | 🟡 Medium | `Arrays` | `2026-11-02` |
 | 0018 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [CPP](./DSA/Arrays/maximum-consecutive-ones/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-08` |
-| 0019 | [Merge Sorting](./DSA/Sorting/merge-sorting) | [CPP](./DSA/Sorting/merge-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-09-30` |
-| 0020 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [CPP](./DSA/Arrays/move-zeros-to-end/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-12` |
-| 0021 | [Next Permutation](./DSA/Arrays/next-permutation) | [CPP](./DSA/Arrays/next-permutation/solution.cpp) | 🟡 Medium | `Arrays` | `2026-11-01` |
-| 0022 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-21` |
-| 0023 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [CPP](./DSA/Arrays/pascals-triangle-ii/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-22` |
-| 0024 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [CPP](./DSA/Arrays/pascals-triangle-iii/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-23` |
-| 0025 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-20` |
-| 0026 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [CPP](./DSA/Sorting/quick-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-10-01` |
-| 0027 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-19` |
-| 0028 | [Recursive Bubble Sort](./DSA/Sorting/recursive-bubble-sort) | [CPP](./DSA/Sorting/recursive-bubble-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-02` |
-| 0029 | [Recursive Insertion Sort](./DSA/Sorting/recursive-insertion-sort) | [CPP](./DSA/Sorting/recursive-insertion-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-03` |
-| 0030 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-13` |
-| 0031 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [CPP](./DSA/Arrays/reverse-pairs/solution.cpp) | 🔴 Hard | `Arrays` | `2026-11-07` |
-| 0032 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-24` |
-| 0033 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
-| 0034 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
-| 0035 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-25` |
-| 0036 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-29` |
-| 0037 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-26` |
-| 0038 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0019 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [CPP](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.cpp) | 🟡 Medium | `Arrays` | `2026-11-08` |
+| 0020 | [Merge Sorting](./DSA/Sorting/merge-sorting) | [CPP](./DSA/Sorting/merge-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-09-30` |
+| 0021 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [CPP](./DSA/Arrays/move-zeros-to-end/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-12` |
+| 0022 | [Next Permutation](./DSA/Arrays/next-permutation) | [CPP](./DSA/Arrays/next-permutation/solution.cpp) | 🟡 Medium | `Arrays` | `2026-11-01` |
+| 0023 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-21` |
+| 0024 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [CPP](./DSA/Arrays/pascals-triangle-ii/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-22` |
+| 0025 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [CPP](./DSA/Arrays/pascals-triangle-iii/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-23` |
+| 0026 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-20` |
+| 0027 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [CPP](./DSA/Sorting/quick-sorting/solution.cpp) | 🟡 Medium | `General` | `2026-10-01` |
+| 0028 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-19` |
+| 0029 | [Recursive Bubble Sort](./DSA/Sorting/recursive-bubble-sort) | [CPP](./DSA/Sorting/recursive-bubble-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-02` |
+| 0030 | [Recursive Insertion Sort](./DSA/Sorting/recursive-insertion-sort) | [CPP](./DSA/Sorting/recursive-insertion-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-10-03` |
+| 0031 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-13` |
+| 0032 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [CPP](./DSA/Arrays/reverse-pairs/solution.cpp) | 🔴 Hard | `Arrays` | `2026-11-07` |
+| 0033 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-24` |
+| 0034 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-07` |
+| 0035 | [Selection Sort](./DSA/Sorting/selection-sort) | [CPP](./DSA/Sorting/selection-sort/solution.cpp) | 🟡 Medium | `Sorting` | `2026-09-25` |
+| 0036 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-25` |
+| 0037 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-29` |
+| 0038 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-10-26` |
+| 0039 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-15` |
 
 ---
 
